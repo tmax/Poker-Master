@@ -1,4 +1,6 @@
 A non-interactive poker simulation in Lisp. 
+This team project project built on previous homeworks for CS 580 (Artificial Intelligence). 
+
 Game is initiated by running the following function with the related parameters 
 
           (PokerMaster num-agents num-chips num-games)
